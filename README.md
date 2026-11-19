@@ -84,6 +84,14 @@ It includes:
 - Order status filter
 - Interactive data visualizations
 
+## Dashboard Preview
+
+The following screenshots show the interactive Supply Chain & Inventory Analysis dashboard.
+
+![Dashboard Overview](images/dashboard.png)
+
+![Dashboard Details](images/dashboard-detail.png)
+
 ## Project Structure
 
 ```text
